@@ -9,9 +9,9 @@ The user interface is designed using Material UI, which provides a responsive an
 Overall, your project is a powerful tool for administrators that simplifies the process of managing user accounts and visualizing data using a modern and efficient technology stack.
 
 # Important Links
-material ui: https://mui.com
-nivo charts: https://nivo.rocks
-formik: https://formik.org/docs
-yup validation: https://github.com/jquense/yup
-react pro sidebar: https://github.com/azouaoui-med
-google fonts: https://fonts.google.com/
+## material ui: https://mui.com
+## nivo charts: https://nivo.rocks
+## formik: https://formik.org/docs
+## yup validation: https://github.com/jquense/yup
+## react pro sidebar: https://github.com/azouaoui-med
+## google fonts: https://fonts.google.com/
