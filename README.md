@@ -1,8 +1,8 @@
-# React Dashbord
+## React Dashbord
 
 #### To ensure the privacy and security of sensitive information, all data used in the dashboard is mock data. This means that the dashboard simulates real-world scenarios by using fictional data that is representative of the actual data.
 
-# Demo Link
+## Demo Link
 https://admindashbordpro.netlify.app
 
 ## Tech [React JS, Recat Router ,Material UI ,Nivo Charts, Formik ,Yup,]
@@ -12,7 +12,7 @@ With the dashboard, an admin can easily create new user accounts with a user-fri
 
 The user interface is designed using Material UI, which provides a responsive and intuitive interface that is easy to navigate. The use of React Router enables seamless navigation between different components of the dashboard.
 
-# Important Links
+## Important Links
 ### material ui: https://mui.com
 ### nivo charts: https://nivo.rocks
 ### formik: https://formik.org/docs
@@ -22,8 +22,8 @@ The user interface is designed using Material UI, which provides a responsive an
 
 
 
-# clone this Repo
-## git clone (https://github.com/suman3262/React-Dashbord)
+## clone this Repo
+#### git clone (https://github.com/suman3262/React-Dashbord)
 
 ## Reference of this project 
 [ http://surl.li/gsmzc ]
