@@ -22,6 +22,9 @@ The user interface is designed using Material UI, which provides a responsive an
 
 
 
+# clone this Repo
+## git clone (https://github.com/suman3262/React-Dashbord)
+
 ## Reference of this project 
 [ http://surl.li/gsmzc ]
 
