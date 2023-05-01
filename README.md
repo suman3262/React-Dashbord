@@ -16,3 +16,5 @@ Overall, your project is a powerful tool for administrators that simplifies the 
 ## yup validation: https://github.com/jquense/yup
 ## react pro sidebar: https://github.com/azouaoui-med
 ## google fonts: https://fonts.google.com/
+
+Clone the repository to your local machine ()
