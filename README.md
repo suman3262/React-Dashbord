@@ -20,7 +20,8 @@ Overall, your project is a powerful tool for administrators that simplifies the 
  ## react pro sidebar: https://github.com/azouaoui-med
 ## google fonts: https://fonts.google.com/
 
-Clone the repository to your local machine ## git clone (https://github.com/suman3262/React-Dashbord)
+# Clone the repository to your local machine 
+## git clone (https://github.com/suman3262/React-Dashbord)
 
 ##Contributing 
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
