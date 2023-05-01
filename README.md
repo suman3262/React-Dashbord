@@ -6,7 +6,8 @@ With the dashboard, an admin can easily create new user accounts with a user-fri
 
 The user interface is designed using Material UI, which provides a responsive and intuitive interface that is easy to navigate. The use of React Router enables seamless navigation between different components of the dashboard.
 
-Overall, your project is a powerful tool for administrators that simplifies the process of managing user accounts and visualizing data using a modern and efficient technology stack.
+Overall, your project is a powerful tool for administrators that simplifies the process of managing user accounts and visualizing data using a modern and efficient technology stack. 
+## !!To ensure the privacy and security of sensitive information, all data used in the dashboard is mock data. This means that the dashboard simulates real-world scenarios by using fictional data that is representative of the actual data.
 
 # Important Links
 ## material ui: https://mui.com
