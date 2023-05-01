@@ -12,7 +12,13 @@ With the dashboard, an admin can easily create new user accounts with a user-fri
 
 The user interface is designed using Material UI, which provides a responsive and intuitive interface that is easy to navigate. The use of React Router enables seamless navigation between different components of the dashboard.
 
-
+# Important Links
+### material ui: https://mui.com
+### nivo charts: https://nivo.rocks
+### formik: https://formik.org/docs
+### yup validation: https://github.com/jquense/yup
+### react pro sidebar: https://github.com/azouaoui-med/react
+### google fonts: https://fonts.google.com/
 
 
 
