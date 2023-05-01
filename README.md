@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## To ensure the privacy and security of sensitive information, all data used in the dashboard is mock data. This means that the dashboard simulates real-world scenarios by using fictional data that is representative of the actual data.
 
 # Demo Link
 https://admindashbordpro.netlify.app
