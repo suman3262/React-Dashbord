@@ -5,6 +5,7 @@
 # Demo Link
 https://admindashbordpro.netlify.app
 
+## Tech [React JS, Recat Router ,Material UI ,Nivo Charts, Formik ,Yup,]
 
 
 
