@@ -23,7 +23,7 @@ Overall, your project is a powerful tool for administrators that simplifies the 
 # Clone the repository to your local machine 
 ## git clone (https://github.com/suman3262/React-Dashbord)
 
-##Contributing 
+## Contributing 
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
 
 ## Reference of this project 
