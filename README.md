@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Dashbord
 
 ## To ensure the privacy and security of sensitive information, all data used in the dashboard is mock data. This means that the dashboard simulates real-world scenarios by using fictional data that is representative of the actual data.
 
