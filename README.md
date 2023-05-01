@@ -23,7 +23,7 @@ The user interface is designed using Material UI, which provides a responsive an
 
 
 ## Reference of this project 
-{ https://www.youtube.com/watch?v=wYpCWwD1oz0&t=13265s }
+[ http://surl.li/gsmzc ]
 
 
 
